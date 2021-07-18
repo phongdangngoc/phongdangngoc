@@ -4,6 +4,8 @@
 - **Fun fact : I like walking and feeding birds**
 
 ### **Connect with me :**
-![Social Network](https://www.facebook.com/phongdz5652)
+<a href="https://facebook.com/phongdang5652" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"/>
+<a href="http://www.linkedin.com/in/phong-dang-a210931b6"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
 
-![Mail](dangngocphong5601@gmail.com)
+
+
