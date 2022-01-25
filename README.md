@@ -5,7 +5,7 @@
 
 ### **Connect with me 😉 :**
 <a href="https://facebook.com/phongdz5652/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"/>
-<a href="http://www.linkedin.com/in/phong-dang-a210931b6"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
+<a href="http://www.linkedin.com/in/phongdz5601"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
 
 
 
