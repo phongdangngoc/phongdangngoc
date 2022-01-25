@@ -1,5 +1,5 @@
 ### **Hi, I'm Phong Dang ✌😁- Majors : Information Systems 🔄**
-- **I'm currently studying at Industrial University Of HoChiMinh City**
+- **I'm currently studying at Industrial University Of Ho Chi Minh City**
 - **I wanna be a Data Analyst professional**
 - **I like walking**
 
