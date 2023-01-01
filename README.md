@@ -1,4 +1,4 @@
-### **Hi, I'm Phong Dang - Majors : Information Systems 🔄**
+### **Hi, I'm Phong Dang - Majors : Information Systems ✌️**
 - **I'm currently studying at Industrial University Of Ho Chi Minh City**
 
 ### **Connect with me :**
