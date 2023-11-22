@@ -38,6 +38,6 @@ I study Information Systems at Industrial University of Ho Chi Minh City and cur
 
 ####
 
-[Phong's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=phongdangngoc&hide_progress=true)
+![Phong's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=phongdangngoc&hide_progress=true)
 
 
