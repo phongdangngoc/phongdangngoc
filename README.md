@@ -33,12 +33,13 @@ I study Information Systems at Industrial University of Ho Chi Minh City and cur
 <!--   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="Git" title="Git" /> -->
 <!--   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" title="Kotlin" /> -->
 <!--   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" title="Swift" /> -->
-<br>
-
-![Phong's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=phongdangngoc&hide_progress=true)
-
 </div>
 
+<div align="center">
+
+![Phong's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=phongdangngoc&hide_progress=true)
+  
+</div>
 ####
 
 
