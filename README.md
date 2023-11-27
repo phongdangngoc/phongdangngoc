@@ -14,6 +14,7 @@ I study Information Systems at Industrial University of Ho Chi Minh City and cur
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" target="_blank" alt="HTML" title="HTML" />
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" target="_blank" alt="CSS" title="CSS" />
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" target="_blank" alt="Material UI" title="Material UI" />
+    <img height="40" src="https://cdn-1.webcatalog.io/catalog/tailwind-play/tailwind-play-icon-filled-256.png?v=1675594012719" target="_blank" alt="Material UI" title="Material UI" />
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" target="_blank" alt="JavaScript" title="JavaScript" />
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="Typescript" />
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" target="_blank" alt="React.JS" title="React.JS" />
