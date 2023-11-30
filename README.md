@@ -1,4 +1,4 @@
-## Hi, I'm Phong Dang :v: :sun_with_face:
+### Hi, I'm Phong Dang :v: :sun_with_face:
 I study Information Systems at Industrial University of Ho Chi Minh City and currently I'm Intern Software Developer at Saigon. I love tech and I'm still trying every single day to be able to do great things.
 
 ##
