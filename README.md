@@ -34,6 +34,8 @@ I study Information Systems at Industrial University of Ho Chi Minh City and cur
 <!--   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="Git" title="Git" /> -->
 <!--   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" title="Kotlin" /> -->
 <!--   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" title="Swift" /> -->
+<!--   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg" alt="Swift" title="Swift" /> -->
+<!--   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Swift" title="Swift" /> -->
 </div>
 
 ###
