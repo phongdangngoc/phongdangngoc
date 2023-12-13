@@ -1,5 +1,5 @@
 ### Hi, I'm Phong Dang :v:
-I studied Information Systems at Industrial University of Ho Chi Minh City. Currently I am a Software Developer at Saigon. My passion for technology drives me to strive every day to create great things.
+I studied Information Systems at Industrial University of Ho Chi Minh City. Currently I am a Software Developer at Saigon. My passion for technology drives me to strive every single day to create great things.
 
 ##
 
