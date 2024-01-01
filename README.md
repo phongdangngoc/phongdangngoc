@@ -15,10 +15,10 @@ I studied Information Systems at Industrial University of Ho Chi Minh City. Curr
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" target="_blank" alt="HTML" title="HTML" />
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" target="_blank" alt="CSS" title="CSS" />
   -->
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="Typescript" />
   <img height="40" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" target="_blank" alt="TailwindCSS" title="TailwindCSS" />
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" target="_blank" alt="VueJS" title="VueJS" />
   <img height="40" width="40" src="https://laravel.com/img/logomark.min.svg" target="_blank" alt="Laravel" title="Laravel" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="Typescript" />
   <img 
     height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" target="_blank" alt="Material UI"       
     title="Material UI" 
