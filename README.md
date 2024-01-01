@@ -15,18 +15,17 @@ I studied Information Systems at Industrial University of Ho Chi Minh City. Curr
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" target="_blank" alt="HTML" title="HTML" />
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" target="_blank" alt="CSS" title="CSS" />
   -->
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" target="_blank" alt="Material UI" title="Material UI" />
-    <img height="40" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" target="_blank" alt="TailwindCSS" title="TailwindCSS" />
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" target="_blank" alt="Javascript" title="Javascript" />
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="Typescript" />
+  <img height="40" src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" target="_blank" alt="TailwindCSS" title="TailwindCSS" />
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" target="_blank" alt="VueJS" title="VueJS" />
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" target="_blank" alt="React.JS" title="React.JS" />
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" target="_blank" alt="Java" title="Java" />
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" target="_blank" alt="Spring" title="Spring" />
   <img height="40" width="40" src="https://laravel.com/img/logomark.min.svg" target="_blank" alt="Laravel" title="Laravel" />
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" target="_blank" alt="PHP" title="PHP" />
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" target="_blank" alt="MySQL" title="MySQL" />
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" target="_blank" alt="MongoDB" title="MongoDB" />
+  <img 
+    height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" target="_blank" alt="Material UI"       
+    title="Material UI" 
+  />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" target="_blank" alt="React.JS" title="React.JS" />
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" target="_blank" alt="Spring" title="Spring" />
+  
 <!--   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" title="Node.JS" /> -->
 <!--   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="Typescript" /> -->
 <!--   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" title="Redux" /> -->
