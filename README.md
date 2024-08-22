@@ -23,7 +23,7 @@ I studied Information Systems at Industrial University of Ho Chi Minh City. Curr
     height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" target="_blank" alt="Material UI"       
     title="Material UI" 
   />
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" target="_blank" alt="React.JS" title="React.JS" />
+  <!-- <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" target="_blank" alt="React.JS" title="React.JS" /> -->
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" target="_blank" alt="Spring" title="Spring" />
   
 <!--   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" title="Node.JS" /> -->
@@ -39,6 +39,7 @@ I studied Information Systems at Industrial University of Ho Chi Minh City. Curr
 <!--   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" title="Swift" /> -->
 <!--   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg" alt="Swift" title="Swift" /> -->
 <!--   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Swift" title="Swift" /> -->
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" title="Go" />
 </div>
 
 ###
