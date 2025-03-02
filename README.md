@@ -24,7 +24,7 @@ I studied Information Systems at the Industrial University of Ho Chi Minh City. 
   />
   <!-- <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" target="_blank" alt="React.JS" title="React.JS" /> -->
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" title="Go" />
-  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" target="_blank" alt="Laravel" title="Laravel" />
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" target="_blank" alt="PHP" title="PHP" />
 <!--   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" title="Node.JS" /> -->
 <!--   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="Typescript" /> -->
 <!--   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" title="Redux" /> -->
