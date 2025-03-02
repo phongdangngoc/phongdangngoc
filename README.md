@@ -1,6 +1,5 @@
 ### Hi, I'm Phong Dang :v:
-I studied Information Systems at the Industrial University of Ho Chi Minh City. Currently, I am a Software Developer based in HCMC, Vietnam, with experience working on systems using AWS, Golang, PHP, etc. I am always open to exploring and working with a diverse range of programming languages and frameworks. My passion for technology motivates me to push the boundaries every day to create impactful and innovative solutions.
-
+I graduated with a degree in Information Systems from the Industrial University of Ho Chi Minh City. Now, I’m a Software Developer in HCMC, Vietnam, with hands-on experience in AWS, Golang, PHP, and other tech. I’m especially focused on Golang, using its speed and simplicity to craft reliable, scalable, and high-performing systems. I enjoy diving into different programming languages and frameworks, always eager to learn more. My love for tech keeps me motivated to build practical, innovative solutions every day.
 ##
 
 <div align="center">
