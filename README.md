@@ -44,7 +44,7 @@ I graduated with a degree in Information Systems from Industrial University of H
 ###
 
 <div align="center">
-  <img height="80" width="1000" margin-top="30px" src="https://raw.githubusercontent.com/egonelbre/gophers/refs/heads/master/.thumb/animation/2bit-sprite/demo.gif" alt="A speedy gopher zooming around!" title="Gopher on a high-speed adventure!" />
+  <img height="80" margin-top="30px" src="https://raw.githubusercontent.com/egonelbre/gophers/refs/heads/master/.thumb/animation/2bit-sprite/demo.gif" alt="A speedy gopher zooming around!" title="Gopher on a high-speed adventure!" />
 
 <!-- ![Phong's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=phongdangngoc&hide_progress=true)-->
   
