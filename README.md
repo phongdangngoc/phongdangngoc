@@ -46,7 +46,7 @@ I graduated with a degree in Information Systems from Industrial University of H
 
 <div align="center">
 
-![Phong's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=phongdangngoc&hide_progress=true)
+<!-- ![Phong's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=phongdangngoc&hide_progress=true)-->
   
 </div>
 
